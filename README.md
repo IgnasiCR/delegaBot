@@ -23,3 +23,5 @@ Este bot hará que tus funciones como delegad@ en el grupo donde te encuentres s
 Para más información sobre como funcionan los sistemas puedes utilizar /ayudaAdmin.
 
 RECUERDA que debes darle permisos de administrador y lectura de mensajes a DelegaBot para que funcione en el grupo.
+
+Si quieres colaborar en el proyecto, no dudes en enviar un Pull Request o de abrir una issue. Cualquier participación/sugerencia es bienvenida.
